@@ -1,1 +1,1 @@
-Insert the csv file named as 'Ass.csv' into data base (MySQL) using python . You need to install MySQL where you can check inserted file, after providing access .
+Insert the CSV file named 'Ass.csv' into a MySQL database using Python. You'll need to install MySQL to verify the inserted data after granting the necessary access. I've also completed this task using SQLAlchemy.
